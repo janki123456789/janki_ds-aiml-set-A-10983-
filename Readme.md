@@ -206,7 +206,7 @@ The sigmoid output is suitable for binary classification, while binary cross-ent
 ---
 
 # 📸 Visualizations & Screenshots
-```-
+
 
 ## 1. Histogram
 
@@ -224,6 +224,7 @@ The sigmoid output is suitable for binary classification, while binary cross-ent
 
 - ![confusion_matrix](confusion_matrix.png)
 
+--- 
 
 # 📁 Project Structure
 
