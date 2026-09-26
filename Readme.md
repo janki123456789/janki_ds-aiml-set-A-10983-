@@ -205,27 +205,6 @@ Trainable Parameters: 273
 The sigmoid output is suitable for binary classification, while binary cross-entropy is used as the loss function.
 ---
 
-# 📸 Visualizations & Screenshots
-
-
-## 1. Histogram
-
-- ![histogram](histogram.png)
-
----
-
-## 2. Logistic Regression Confusion Matrix
-
-- ![confusion_matrix](confusion_matrix.png)
-
----
-
-## 3. plot chart
-
-- ![confusion_matrix](confusion_matrix.png)
-
---- 
-
 # 📁 Project Structure
 
 ```text
